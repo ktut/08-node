@@ -3,7 +3,7 @@ LISP — a SIRI-like interface for the command line, built in node.
 
 Commands include:
 
- * `my-tweets`
+* `my-tweets`
 
 * `spotify-this-song`
 
